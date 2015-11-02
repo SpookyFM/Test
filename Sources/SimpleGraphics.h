@@ -1,6 +1,6 @@
 #pragma once
 
-void initGraphics();
+void initGraphics(); // Changed something
 void startFrame();
 void endFrame();
 void setPixel(int x, int y, float red, float green, float blue);
